@@ -1,0 +1,3 @@
+ChatGPT GitHub connector write-access test.
+Created on 2026-08-24.
+Repository: kophysty/agent-control-plane
